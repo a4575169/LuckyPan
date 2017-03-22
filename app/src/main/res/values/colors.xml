@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="bg_gray">#f2f2f2</color>
+    <color name="bg_red">#ff6f5a</color>
+    <color name="bg_grey">#F0F4F7</color>
+    <color name="text_bg_red">#d53736</color>
+    <color name="text_red">#d53736</color>
+    <color name="text_gray1">#767676</color>
+    <color name="text_gray2">#888888</color>
+    <color name="text_gray">#d9d9d9</color>
+    <color name="tint_gray">#EFEFF4</color><!--浅灰  -->
+    <color name="text_deep_gray">#535353</color>
+    <color name="trans_black">#77000000</color>
+    <color name="bg_orange">#ff9900</color>
+    <color name="bg_deep_orange">#f7511d</color>
+    <color name="bg_deep_orange_press">#FFC24017</color>
+    <color name="gray_1">#C0C0C0</color>
+    <color name="gray_2">#AFAFAF</color>
+    <color name="dark_slate_gray">#2F4F4F</color>
+    <color name="myblue">#0066FF</color>
+    <color name="mine_text1">#6a6a6a</color>
+    <color name="mine_text2">#6a6a6a</color>
+    <color name="mine_line">#d3d3d3</color>
+    <color name="their_text">#666666</color>
+    <color name="their_foottext">#b3b3b3</color>
+    <color name="recharge_line">#d3d3d3</color>
+    <color name="atm_line">#d3d3d3</color>
+    <color name="earnings_record_text">#999999</color>
+    <color name="earnings_record_line">#d3d3d3</color>
+    <color name="earnings_record_title">#eeeeee</color>
+    <color name="atm_says_line">#cccccc</color>
+    <color name="tab_but_bg">#d70050</color>
+    <color name="tab_bg">#f8f8f8</color>
+    <color name="tab_text">#b3b3b3</color>
+    <color name="tab_but_two">#b8d289</color>
+    <color name="buy_bg_color">#7f7f7f</color>
+    <color name="ding_bg_color">#97be4d</color>
+    <color name="color_btn2">#d80051</color>
+    <color name="color_btn3">#cccccc</color>
+    <color name="tab_one">#d50052</color>
+    <color name="tab_two">#82b22a</color>
+    <color name="bg_blue">#1717ff</color>
+    <color name="tab_red">#f7511d</color>
+    <color name="text_orange">#f06128</color>
+    <color name="login_bg_orange">#FD995D</color>
+    <color name="back_money_color">#547cb9</color>
+
+    <color name="text_orange1">#f7511d</color>
+    <color name="btn_gray">#C4C4C4</color>
+    <color name="btn_dark_gray">#5A595A</color>
+    <color name="txt_blue">#00A6F4</color>
+
+    <color name="btn_orange">#f7511d</color>
+    <color name="btn_orange_press">#FFC24017</color>
+
+    <color name="transparent">#00000000</color>
+
+    <!-- 新版颜色 -->
+    <color name="text_black">#333333</color>
+    <color name="text_black2">#635F5D</color>
+    <color name="text_orange_n">#FF4E00</color>
+    <!--账户页面顶部渐变色-->
+    <color name="myaccount_topbar_bg">#F47427</color>
+    <!--邀请好友页面顶部渐变色-->
+    <color name="invitefriends_topbar_bg">#FB8653</color>
+    <!--特权页面顶部渐变色-->
+    <color name="privilege_details_bg">#F75C6A</color>
+    <!--签到记录页面顶部渐变色-->
+    <color name="signinrecord_topbar_bg">#73C5FF</color>
+    <!--成长页面顶部渐变色-->
+    <color name="grow_up_topbar_bg">#F47227</color>
+    <color name="text_tint_black">#777677</color>
+    <color name="text_tint_black2">#AEADAD</color>
+    <!-- 新版背景颜色 -->
+    <color name="bg_tint_white">#EFEFF4</color>
+    <!-- 礼包领取顶部渐变 -->
+    <color name="bg_deep_red">#FD3D3E</color>
+    <color name="bg_pink">#F7776D</color>
+    <!-- 项目详情顶部背景颜色 -->
+    <color name="project_title_bg">#F7776D</color>
+    <!-- 粉色按钮按下的颜色-->
+    <color name="bg_red_press">#CD5848</color>
+    <!-- 浅橙色-->
+    <color name="txt_tint_orange">#FE7B55</color>
+    <!--输入框提示字体颜色-->
+    <color name="et_hint_color">#fbcfc0</color>
+
+
+</resources>
