@@ -10,6 +10,9 @@ import android.widget.TextView;
 import static xc.com.luckypan.CustomRuleActivity.customItem;
 
 
+/**
+ * 首页
+ */
 public class HomeActivity extends AppCompatActivity implements View.OnClickListener {
     private TextView tv_eat;
     private TextView tv_ktv;
